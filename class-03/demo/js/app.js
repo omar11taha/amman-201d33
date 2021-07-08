@@ -364,7 +364,7 @@ if (horse==='yes' || horse==='y') {
 // console.log(score);
 
 let food=['burger','steak','pizza','mansaf'];
-console.log(food.length);
+// console.log(food.length);
 // console.log(food[0]);
 // console.log(food[1]);
 
